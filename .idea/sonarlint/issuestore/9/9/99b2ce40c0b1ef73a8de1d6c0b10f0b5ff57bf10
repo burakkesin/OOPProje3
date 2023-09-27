@@ -1,0 +1,15 @@
+
+P
+java:S1121".Extract the assignment out of this expression.(à›Ÿ—ûÿÿÿÿ8Ë±Ä­1
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¨íùÿÿÿÿ8Î±Ä­1
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¨íùÿÿÿÿ8Ï±Ä­1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ“ğ‰øÿÿÿÿ8Ò±Ä­1
+0
+java:S1220""Move this file to a named package.
+r	java:S116"VRename this field "kullanÄ±mKm" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¢¥8İ±Ä­1
+q	java:S116"PRename this field "KapÄ±" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ø³üÿÿÿÿ8ß±Ä­1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÍ¶Î8ã±Ä­1
+G	java:S106"+Replace this use of System.out by a logger.(¦ışà8å±Ä­1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ“ğ‰øÿÿÿÿ8å±Ä­1
+i	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Îê-8ç±Ä­1
+o	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°À¸—øÿÿÿÿ8è±Ä­1
